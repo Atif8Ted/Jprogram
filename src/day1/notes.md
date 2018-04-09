@@ -1,5 +1,5 @@
 
-## Types of array
+### Types of array
 * 1 dimensional array
 * 2 dimensional array -fixed column in all rows
 jagged array variable column in all rows
